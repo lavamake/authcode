@@ -1,0 +1,19 @@
+{
+    "name": "lavamake/authcode",
+    "description": "authcode encode & decode",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lavamake",
+            "email": "lavamake@outlook.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Lavamake\\Authcode\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
