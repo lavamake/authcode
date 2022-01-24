@@ -1,6 +1,6 @@
 {
     "name": "lavamake/authcode",
-    "description": "authcode encode & decode",
+    "description": "authcode encode & decode for Laravel or Lumen",
     "license": "MIT",
     "authors": [
         {
